@@ -17,7 +17,7 @@ transition: transform 0.6s;
 transform-style: preserve-3d;
 }
 .outermwp:hover .innermwp {
-transition: 0.9s;
+transition: ease-in-out 5s;
 transform: rotate(9000deg);
 }
 </style>
