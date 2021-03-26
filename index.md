@@ -18,7 +18,7 @@ transform-style: preserve-3d;
 }
 .outermwp:hover .innermwp {
 transition: 0.9s;
-transform: rotate(180deg) rotateX(180deg) rotateY(180deg);
+transform: rotate(9000deg);
 }
 </style>
 <a class="outermwp" href="mailto:hubbabubba@hubbabubba.net"><img class="innermwp" style="width: 10%" src="https://avatars.githubusercontent.com/u/81445428" /></a>
