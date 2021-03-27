@@ -23,7 +23,7 @@ transform-style: preserve-3d;
 }
 .outermwp:hover .innermwp {
 transition: ease-in-out 5s;
-transform: rotate(3650deg);
+transform: rotate(1800deg);
 }
 </style>
 <a class="outermwp" href="mailto:hubbabubba@hubbabubba.net"><img class="innermwp" src="/favicon.ico" /></a>
