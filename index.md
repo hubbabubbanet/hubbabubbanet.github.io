@@ -21,4 +21,4 @@ transition: ease-in-out 5s;
 transform: rotate(3650deg);
 }
 </style>
-<a class="outermwp" href="mailto:hubbabubba@hubbabubba.net"><img class="innermwp" style="width: 10%" src="/favicon.ico" /></a>
+<a class="outermwp" href="mailto:hubbabubba@hubbabubba.net"><img class="innermwp" src="/favicon.ico" /></a>
