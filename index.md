@@ -1,6 +1,6 @@
 ---
 layout: default
-name: Hubbabubba
+name: HubbaBubba
 title: null
 ---
 <style>
